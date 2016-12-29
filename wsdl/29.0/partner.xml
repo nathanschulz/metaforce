@@ -3,7 +3,7 @@
 
 
 <!--
-Salesforce.com Partner Web Services API Version 26.0
+Salesforce.com Partner Web Services API Version 29.0
 Generated on 2012-12-16 01:58:08 +0000.
 
 Copyright 1999-2012 salesforce.com, inc.
@@ -3334,7 +3334,7 @@ All Rights Reserved
     <service name="SforceService">
         <documentation>Sforce SOAP API</documentation>
         <port binding="tns:SoapBinding" name="Soap">
-            <soap:address location="https://login.salesforce.com/services/Soap/u/26.0"/>
+            <soap:address location="https://login.salesforce.com/services/Soap/u/29.0"/>
         </port>
     </service>
 </definitions>
